@@ -1,6 +1,7 @@
-# ActiveRecon
+# ActiveRecon 
 
 Advanced Active Reconnaissance Automation Framework for Security Researchers
+By Micahel Dahan
 
 ## Overview
 
