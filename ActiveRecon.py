@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 ActiveRecon - Advanced Active Reconnaissance Automation Tool
-Author: Security Research Community
+Author: Michael Dahan (@Sec-Llama)
 Version: 1.0.0
 Purpose: Automate active reconnaissance for authorized security assessments
 """
