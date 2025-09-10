@@ -51,7 +51,7 @@ go install github.com/ffuf/ffuf@latest
 
 ```bash
 # Clone the repository
-git clone https://github.com/security-research/ActiveRecon.git
+git clone https://github.com/Sec-Llama/ActiveRecon.git
 cd ActiveRecon
 
 # Make executable
@@ -325,7 +325,7 @@ ActiveRecon automatically detects and utilizes available tools:
 ### Development Setup
 ```bash
 # Fork and clone the repository
-git clone https://github.com/yourusername/ActiveRecon.git
+git clone https://github.com/Sec-Llama/ActiveRecon.git
 cd ActiveRecon
 
 # Create feature branch
